@@ -19,13 +19,13 @@ O projeto teve foco na **criação de um produto original** apoiado por ferramen
 
 O material está organizado em seções curtas, cada uma com títulos e frases inspiradoras para engajar os estudantes:
 
-1. Primeiros Passos – introdução ao projeto e personalização do site;
+1. Primeiros passos – introdução ao projeto e personalização do site;
 2. Usando o CodePen – criação de conta e primeiros comandos;
 3. Estrutura com HTML – construção da base do site;
-4. Estilo e Cores com CSS – aplicação de estilos, cores e fontes;
-5. Imagens e Links – inclusão de conteúdo visual e conexões externas;
-6. Desafio Criativo – momento de personalização e experimentação;
-7. Site Pronto! – encerramento motivador;
+4. Estilo e cores com CSS – aplicação de estilos, cores e fontes;
+5. Imagens e links – inclusão de conteúdo visual e conexões externas;
+6. Desafio criativo – momento de personalização e experimentação;
+7. Site pronto! – encerramento motivador;
 8. Agradecimentos – contextualização do projeto e autoria.
 
 🧠 Criação e revisão: Conteúdo estruturado com apoio da IA generativa ChatGPT, revisado por Natalia Mirian Timote.
